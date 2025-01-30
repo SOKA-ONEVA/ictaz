@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/github.io/ictaz/static/css/main.f855e6bc.css",
+    "main.js": "/github.io/ictaz/static/js/main.01277a20.js",
+    "static/js/488.be7ae50b.chunk.js": "/github.io/ictaz/static/js/488.be7ae50b.chunk.js",
+    "static/media/mm.jpeg": "/github.io/ictaz/static/media/mm.532da954324994189a15.jpeg",
+    "static/media/programmer-191101.jpg": "/github.io/ictaz/static/media/programmer-191101.c5ae000560ab6506bd3b.jpg",
+    "static/media/reg.jpg": "/github.io/ictaz/static/media/reg.f1e104f07280e1b092b4.jpg",
+    "static/media/ict.jpg": "/github.io/ictaz/static/media/ict.16f06b8f7496ce3083c9.jpg",
+    "static/media/call.jpg": "/github.io/ictaz/static/media/call.44ad414107713c862528.jpg",
+    "static/media/ictaz.JPG": "/github.io/ictaz/static/media/ictaz.08075765273e097c46c3.JPG",
+    "index.html": "/github.io/ictaz/index.html",
+    "main.f855e6bc.css.map": "/github.io/ictaz/static/css/main.f855e6bc.css.map",
+    "main.01277a20.js.map": "/github.io/ictaz/static/js/main.01277a20.js.map",
+    "488.be7ae50b.chunk.js.map": "/github.io/ictaz/static/js/488.be7ae50b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.01277a20.js"
+  ]
+}
